@@ -831,4 +831,4 @@ def confirm_hotel_details():
         nights = (co - ci).days
 
         if nights < 0:
-            pass
+        pass
